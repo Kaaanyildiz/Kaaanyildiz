@@ -59,10 +59,10 @@
 </p>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Kaan-yildz&label=Profile%20views&color=0e75b6&style=flat" alt="Kaan-yildz" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Kaaanyildiz&label=Profile%20views&color=0e75b6&style=flat" alt="Kaaanyildiz" /> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kaan-yildz&show_icons=true&locale=en&layout=compact" alt="Kaan-yildz" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kaaanyildiz&show_icons=true&locale=en&layout=compact" alt="Kaaanyildiz" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Kaan-yildz&show_icons=true&locale=en" alt="Kaan-yildz" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Kaaanyildiz&show_icons=true&locale=en" alt="Kaaanyildiz" /></p>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Kaaanyildiz)](https://git.io/streak-stats)
