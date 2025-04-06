@@ -11,7 +11,7 @@
 <!-- Profile Introduction Section -->
 <div align="center">
   <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&center=true&vCenter=true&random=false&width=500&lines=Flutter+Developer;AI+Enthusiast;Python+Programmer;Cryptology+Enthusiast;Night+Coding+Engineer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&center=true&vCenter=true&random=false&width=500&lines=Flutter+Developer;AI+Enthusiast;Flutter+Programmer;Cryptology+Enthusiast;Night+Coding+Engineer" alt="Typing SVG" />
   </p>
 
   <br/>
