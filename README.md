@@ -164,12 +164,12 @@
 
 <div align="center">  
   <p align="center">
-    <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=ismailhakkii&theme=tokyonight&hide_border=true" />
+    <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=Kaaanyildiz&theme=tokyonight&hide_border=true" />
   </p>
   
   <p>
-    <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=ismailhakkii&show_icons=true&theme=tokyonight&hide_border=true" />
-    <img align="right" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismailhakkii&layout=compact&theme=tokyonight&hide_border=true" />
+    <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=Kaaanyildiz&show_icons=true&theme=tokyonight&hide_border=true" />
+    <img align="right" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaaanyildiz&layout=compact&theme=tokyonight&hide_border=true" />
   </p>
 </div>
 
