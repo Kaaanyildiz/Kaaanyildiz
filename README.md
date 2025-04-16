@@ -164,7 +164,7 @@
 
 <div align="center">  
   <p align="center">
-    <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=&theme=tokyonight&hide_border=true" />
+    <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=Kaaanyildiz&theme=tokyonight&hide_border=true" />
   </p>
   
   <p>
