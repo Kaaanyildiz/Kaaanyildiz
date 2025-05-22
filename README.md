@@ -215,7 +215,7 @@
       🔄 <a href="https://github.com/Kaaanyildiz?tab=repositories">Clone my projects</a>
     </li>
     <li>
-      💬 <a href="www.linkedin.com/in/kaanyıldız1">Contact me via LinkedIn</a>
+      💬 <a href="https://www.linkedin.com/in/kaany%C4%B1ld%C4%B1z1">Contact me via LinkedIn</a>
     </li>
   </ul>
 </div>
